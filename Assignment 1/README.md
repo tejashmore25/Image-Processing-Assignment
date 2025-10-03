@@ -1,6 +1,6 @@
 # Assignment 1
 
-This folder contains my solution for Assignment 1 of the **Digital Image Processing** course. The primary goal of this assignment was to analyse Histogram, implement Binarization algoriths, and perform operation on the extracted connected component.
+This folder contains my solution for Assignment 1 of the [**Digital Image Processing**](https://ece.iisc.ac.in/~rajivs/#/teaching/dip) course. The primary goal of this assignment was to analyse Histogram, implement Binarization algoriths, and perform operation on the extracted connected component.
 
 ---
 

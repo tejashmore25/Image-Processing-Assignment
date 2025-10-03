@@ -1,6 +1,6 @@
 # [Digital Image Processing] - Assignment Submissions
 
-This repository contains my submissions for the assignments in the **Digital Image Processing** course, taught by [Rajiv Soundararajan](https://ece.iisc.ac.in/~rajivs/#/) during the Aug-Dec 2025 semester.
+This repository contains my submissions for the assignments in the [**Digital Image Processing**](https://ece.iisc.ac.in/~rajivs/#/teaching/dip) course, taught by [Rajiv Soundararajan](https://ece.iisc.ac.in/rajiv-soundararajan/) during the Aug-Dec 2025 semester.
 
 ---
 
@@ -37,5 +37,5 @@ Navigate into the desired assignment folder and open the `.ipynb` file.
 For example:
 ```bash
 cd "Assignment 1"/
-# Now open Assignment_01.ipynb in your editor
+# Now open the report to see the analysis and ipynb file to see the code
 ```

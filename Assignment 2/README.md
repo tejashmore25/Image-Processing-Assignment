@@ -1,6 +1,6 @@
 # Assignment 2
 
-This folder contains my solution for Assignment 2 of the **Digital Image Processing** course. The primary goal of this assignment was to use perform different types of operations like Geometric, Blur, Sharpening on images using required filters..
+This folder contains my solution for Assignment 2 of the [**Digital Image Processing**](https://ece.iisc.ac.in/~rajivs/#/teaching/dip) course. The primary goal of this assignment was to use perform different types of operations like Geometric, Blur, Sharpening on images using required filters..
 
 ---
 
