@@ -24,7 +24,7 @@ The Jupyter Notebook `DIP_Asignment_2.ipynb` addresses the following problems:
 
 ## 🚀 How to Run
 
-To view and run the solution, ensure you have Jupyter installed and required packages installed. If not, then please read this [Readme]() to install the required packages. 
+To view and run the solution, ensure you have Jupyter installed and required packages installed. If not, then please read this [Readme](../README.md) to install the required packages. 
 
 Navigate to this directory in your terminal and launch the notebook.
 

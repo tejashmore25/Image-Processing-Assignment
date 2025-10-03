@@ -8,8 +8,8 @@ This repository contains my submissions for the assignments in the **Digital Ima
 
 | Assignment          | Description                                    | Link                                                      |
 | ------------------------- | ---------------------------------------------- | --------------------------------------------------------- |
-| **Assignment 1** | Otsu's Binarization, Connected Component Analysis     | [View Notebook](./Assignment_01/Assignment_01.ipynb)      |
-| **Assignment 2** |Spatial Filtering, Geometric Operation, Interpolation, Image Sharpening | [View Notebook](./Assignment_02/Assignment_02.ipynb)      |
+| **Assignment 1** | Otsu's Binarization, Connected Component Analysis     | [View Notebook](./Assignment%201/DIP_Assignment_1.ipynb)      |
+| **Assignment 2** |Spatial Filtering, Geometric Operation, Interpolation, Image Sharpening | [View Notebook](./Assignment%202/DIP_Assignment_2.ipynb)      |
 ---
 
 ## 🛠️ Setup and Installation
