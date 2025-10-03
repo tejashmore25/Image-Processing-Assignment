@@ -17,6 +17,7 @@ The Jupyter Notebook `DIP_Asignment_2.ipynb` addresses the following problems:
 ## 📂 Files in this Folder
 
 * `DIP_Asignment_2.ipynb`: The main Jupyter Notebook containing all code, analysis, and solutions.
+* `Report 2.pdf`: Report containing all my analysis for each question along with the output achieved.
 * `images`: (dataset) Contains the images which are used for the assignment.
 * `Problem Statements 2.pdf`: (Optional) Problem statement for this assignment.
 
