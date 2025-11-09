@@ -30,5 +30,5 @@ To view and run the solution, ensure you have Jupyter installed and required pac
 Navigate to this directory in your terminal and launch the notebook.
 
 ```bash
-jupyter DIP_Asignment_3.ipynb.ipynb
+jupyter DIP_Asignment_3.ipynb
 ```
