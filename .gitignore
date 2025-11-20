@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pth
+*.pt
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
@@ -11,3 +13,5 @@ __pycache__/
 .venv
 env/
 venv/
+
+Assignment 5/images/
