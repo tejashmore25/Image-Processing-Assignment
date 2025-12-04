@@ -14,4 +14,5 @@ __pycache__/
 env/
 venv/
 
-Assignment 5/images/
+Assignment 5/images/CIFAR-10/*
+Assignment 5/images/CIFAR-10-C/*

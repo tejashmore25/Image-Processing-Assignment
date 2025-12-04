@@ -12,6 +12,7 @@ This repository contains my submissions for the assignments in the [**Digital Im
 | **Assignment 2** |Spatial Filtering, Geometric Operation, Interpolation, Image Sharpening | [View Notebook](./Assignment%202/DIP_Assignment_2.ipynb)      |
 | **Assignment 3** |Directional Filtering, Gaussian Blurring and Inverse Filtering | [View Notebook](./Assignment%203/DIP_Assignment_3.ipynb)      |
 | **Assignment 4** |Image Downsampling, Edge Detection | [View Notebook](./Assignment%204/DIP_Assignment_4.ipynb)      |
+| **Assignment 5** | CNN - Feature Extraction, Fine-tuning, Feature Representation| [View Notebook](./Assignment%205/DIP_Assignment_5.ipynb)      |
 ---
 
 ## 🛠️ Setup and Installation
